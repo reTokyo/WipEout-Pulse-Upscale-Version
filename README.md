@@ -6,7 +6,7 @@ For use with PPSSPP.
 Official PPSSPP website : https://ppsspp.org/index.html
 
 ## Description :
-A basic high-resolution texture pack which enhances partially the User-Interface of WipEout Pulse.
+A high-resolution texture pack which enhances the User-Interface and Graphics of WipEout Pulse.
 
 For more information, please visit the PPSSPP forum thread : https://forums.ppsspp.org/showthread.php?tid=26335
 
